@@ -6,7 +6,7 @@
                 <div class="item abot">
                     <div class="logo-footer mb-20">
                         <a href="index-2.html" class="logo">
-                            <img src="img/h-logo.png" alt="Aarambh logo" style="width:140px">
+                            <img src="{{ url('Frontend/img/h-logo.png') }}" alt="Aarambh logo" style="width:140px">
                         </a>
                     </div>
                     <!--div class="social-icon">
@@ -75,13 +75,13 @@
     </div>
 </footer>
 <div class="sticky-icon">
-    
+
    <a href="https://www.facebook.com/profile.php?id=100091567021549" class="Facebook" target="_blank"><i class="fab fa-facebook-f"> </i> Facebook </a>
    <a href="https://www.instagram.com/aarambh.interiors/" class="Instagram" target="_blank"><i class="fab fa-instagram"></i> Instagram </a>
-   <a href="https://twitter.com/AarambhInterior" class="Twitter" target="_blank"><i class="fab fa-twitter" target="_blank"> </i> Twitter </a>   
+   <a href="https://twitter.com/AarambhInterior" class="Twitter" target="_blank"><i class="fab fa-twitter" target="_blank"> </i> Twitter </a>
    <a href="https://www.linkedin.com/company/aarambhinteriors/" class="Linkedin" target="_blank"><i class="fab fa-linkedin" target="_blank"> </i> Linkedin </a>
-   <a href="https://www.youtube.com/@AarambhInteriors_" class="Youtube" target="_blank"><i class="fab fa-youtube" target="_blank"></i> Youtube </a>   
-    <a href="https://api.whatsapp.com/send?phone=+919998197798&amp;text=Hello!" class="whatsapp" target="_blank"><i class="fab fa-whatsapp" target="_blank"></i> Whatsapp </a>  
+   <a href="https://www.youtube.com/@AarambhInteriors_" class="Youtube" target="_blank"><i class="fab fa-youtube" target="_blank"></i> Youtube </a>
+    <a href="https://api.whatsapp.com/send?phone=+919998197798&amp;text=Hello!" class="whatsapp" target="_blank"><i class="fab fa-whatsapp" target="_blank"></i> Whatsapp </a>
 </div>
 <!-- ==================== End Footer ==================== -->
 <!-- jQuery -->

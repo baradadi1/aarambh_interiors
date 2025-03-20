@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
-	
+
 <!-- Mirrored from www.aarambhinteriors.co.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Mar 2025 18:00:20 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
@@ -23,10 +23,10 @@
 			rel="stylesheet">
 		<!-- Plugins -->
 		<link rel="stylesheet" href="{{url('Frontend/css/plugins.css')}}" />
-		<link href="css/twentytwenty.css" rel="stylesheet" type="text/css" />
+		<link href="{{ url('Frontend/css/twentytwenty.css') }}" rel="stylesheet" type="text/css" />
 		<!-- Core Style Css -->
 		<link rel="stylesheet" href="{{url('Frontend/css/style.css')}}" />
-		
+
 		<link rel="preconnect" href="https://fonts.googleapis.com/">
 		<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
@@ -50,11 +50,11 @@
 		<div class="mouse-cursor cursor-inner d-non"></div>
 		<!-- ==================== End cursor ==================== -->
 		<!-- ==================== Start Navbar ==================== -->
-		
+
 		<nav class="navbar change navbar-expand-lg">
 			<div class="container">
 				<!-- Logo -->
-				<a class="" href="index-2.html">
+				<a class="" href="{{ route('home.index') }}">
 					<img src="{{url('Frontend/img/h-logo.png')}}" alt="Aarambh logo" style="width:180px">
 				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -65,13 +65,13 @@
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav ml-auto">
 							<li class="nav-item">
-							<a class="nav-link" href="index-2.html">Home</a>
+							<a class="nav-link" href="{{ route('home.index') }}">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="about-us.html">About Us</a>
+							<a class="nav-link" href="{{ route('about.index') }}">About Us</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="image-gallery.html">Our Projects</a>
+							<a class="nav-link" href="{{ route('project.index') }}">Our Projects</a>
 						</li>
 						<!--li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="project.php" role="button"
@@ -83,10 +83,10 @@
 							</div>
 						</li-->
 						<li class="nav-item">
-							<a class="nav-link" href="contact.html">Contact Us</a>
+							<a class="nav-link" href="{{ route('contact.index') }}">Contact Us</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="inquiry.html">Inquiry Now</a>
+							<a class="nav-link" href="{{ route('inquery.index') }}">Inquiry Now</a>
 						</li>
 					</ul>
 				</div>

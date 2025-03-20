@@ -71,7 +71,7 @@
 									<span class="bottom-corn"></span>
 									<div class="custom-font">
 										<h5 class="thin custom-font">Elegant Design </h5>
-										<h1 data-splitting><a href="#0"> 
+										<h1 data-splitting><a href="#0">
 											For Elegant You
 											</a>
 										</h1>
@@ -100,10 +100,10 @@
 	</div>
 	<div class="swiper-pagination top custom-font"></div>
 </header>
-		
+
 <!-- ==================== Start before & after ==================== -->
 <section class="after-before section-padding">
-	<div class="background bg-img parallaxie" data-background="img/04.jpg" data-overlay-dark="7"></div>
+	<div class="background bg-img parallaxie" data-background="{{url('Frontend/img/04.jpg') }}" data-overlay-dark="7"></div>
 	<div class="container ontop">
 		<div class="section-head text-center wow fadeInUp" data-wow-delay=".3s">
 			<div class="row justify-content-center">
@@ -158,7 +158,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
 		</div>
 	</div>
 </div>
-	
+
 <section class="process section-padding bg-img bg-repeat" style="background:#05070d">
 	<div class="container">
 		<div class="section-head text-center">
@@ -272,7 +272,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                                 <p class="playfont">
 								Glad to say that,<br>
 								Thank you very much "AARAMBH INTERIORS" for fabulous designing of our dream home. It only happened by your dedication, efforts and hard work. We are very happy with your work, designing, drawing arrangements, home planning, visit, co-operation and hassle-free communication. We were very inspired by your good work and dedication. We hope that you are serve better & better to your clients by creating dream projects with the help of your incredible designing skills</p><br>
-								
+
 								<p class="playfont">
 								We are Thankful to Devanshi and her entire team of AARAMBH for creating our new dream home.
                                 </p>
@@ -290,7 +290,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                                 </p><br>
 								 <p class="playfont">Regards to you that your passion, hardwork, capabilities, dedication are your top qualities.
                                 </p><br>
-								
+
                             </div>
                             <div class="info">
                                 <h6>- Hetal Doshi (P'cist) </h6>
@@ -301,7 +301,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                             <div class="cont">
                                 <p class="playfont">They did an amazing job,</p><br>
 								 <p class="playfont">We had excellent choices, from concept to material.</p><br>
-								 
+
 								 <p class="playfont">The project was managed by Rohit Sinh Mori with Devyanshi Vyas, who is an interior designer, and they both were in contact with me at each and every step of my dream workplace. I think they rock in this field.
 								Thanks with warm regards.</p>
 
@@ -340,7 +340,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                             <div class="cont">
                                 <p class="playfont">I will recommend your platform to my relatives & friends. I appreciated your speed very much and efficiency towards project and to it’s really a dream come true house for me. </p><br>
 								<p class="playfont">
-							Thanks Devanshi madam & regards. 
+							Thanks Devanshi madam & regards.
                                 </p>
                             </div>
                             <div class="info">
@@ -351,7 +351,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                             <span class="quote-icon"><img src="img/quote.svg" alt=""></span>
                             <div class="cont">
                                 <p class="playfont">Good Knowledge, Fresh Ideas took our office on next level! We loved working with Aarambh & its team.</p>
-								
+
                             </div>
                             <div class="info">
                                 <h6>- Gaurav Nathwani</h6>
@@ -361,7 +361,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                             <span class="quote-icon"><img src="img/quote.svg" alt=""></span>
                             <div class="cont">
                                 <p class="playfont">Let me start by saying; I really enjoyed working with Aarambh. Thank you so much for capturing my vision and bringing my ordinary space to a level of brilliance! Every detail looks absolutely amazing.</p>
-								
+
                             </div>
                             <div class="info">
                                 <h6>- Haresh Miyatra</h6>
@@ -371,14 +371,14 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                             <span class="quote-icon"><img src="img/quote.svg" alt=""></span>
                             <div class="cont">
                                 <p class="playfont">We are so proud to recognize the outstanding job done by our interior designer Miss Devanshi. From the moment they took on the job, they have demonstrated an exceptional level of passion and dedication to make sure the project was successful. They have paid close attention to every detail, utilizing their knowledge and creativity to craft a space that is truly remarkable!</p><br>
-								
+
 								 <p class="playfont">The end result is a stunning transformation that has left us in awe. From the perfect selection of furniture, to the perfectly coordinated accessories, to the thoughtful touches throughout the space, it is clear that our interior designer has taken great care in making sure this project was a grand success. </p><br>
 
 								 <p class="playfont">We are deeply appreciative of the hard work and dedication that our interior designer has put into this job. They have truly gone above and beyond our expectations and delivered a space that we will always cherish. Thank you for all your hard work and for making our Dream Home.</p><br>
 								 <p class="playfont">
 								Thank you team Arambh Interiors.
 								</p>
-								
+
                             </div>
                             <div class="info">
                                 <h6>- Prashant & Niraj Malvi</h6>
@@ -388,7 +388,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                             <span class="quote-icon"><img src="img/quote.svg" alt=""></span>
                             <div class="cont">
                                 <p class="playfont">Thank you for the beautiful designs. The plans & 3d looked fantastic and even in real, our home looks more elegant. No one can understand our taste better than you. Thank you team Aarambh. More Power to you. </p>
-								
+
                             </div>
                             <div class="info">
                                 <h6>- Ketan Sagpariya </h6>
@@ -399,7 +399,7 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                             <div class="cont">
                                 <p class="playfont">From creating the perfect layout to finding pieces I absolutely loved, my designer really took my space to the next level. I never dreamed my home could look – and feel – this good! </p><br>
 								<p class="playfont">Thanks Aarambh!</p>
-								
+
                             </div>
                             <div class="info">
                                 <h6>- Ashish Khokhar </h6>
@@ -411,8 +411,8 @@ text-transform: inherit;">" Let's make something beautiful together "</h6>
                                 <p class="playfont">They are so amazing! The designs were just gorgeous! I was looking for something that was more than "okay". I wanted beautiful, and they delivered. My designer helped me design one awesome kids’ rooms, which are also somehow elevated and exciting at the same time - not everyone has the ability to do that! They are beautiful heavens that my kids will love for years to come.
 Thank you!”
 </p>
-							
-								
+
+
                             </div>
                             <div class="info">
                                 <h6>- Mr. Parag Bharatbhai Sudani</h6>
